@@ -1,0 +1,7 @@
+Vision Public Build - Obfuscated 2026-08-31 19:37:39
+File: VisionInjector.exe
+Original: 216064 bytes
+Obfuscated: 216166 bytes (+overlay)
+Technique: PE overlay injection (light) + symbol renaming marker + string encryption placeholder
+Note: Overlay is ignored by Windows loader, exe remains fully functional but hash/Sig changed.
+For stronger obfuscation, integrate ConfuserEx or Obfuscar via build pipeline.

@@ -1,0 +1,11 @@
+{
+  "version": "v.1.2.0.0",
+  "assemblyVersion": ".1.2.0.0",
+  "releaseDate": "2026-08-23",
+  "downloadUrl": "https://github.com/AshCash247/Vision-Injector/releases/tag/v.1.0.0.0",
+  "releaseNotesUrl": "https://github.com/AshCash247/Vision-Injector/releases/tag/v.1.0.0.0",
+  "changelog": "Release v.1.0.0.0 - GitHub:\nWhats different?\nThemes. built in debug injector.\nSource: https://github.com/AshCash247/Vision-Injector/releases/tag/v.1.0.0.0\n\nNext: v2.1.0 will include Update System, auto-checker, one-click Download & Update, fix for Form1.resx crash.",
+  "mandatory": false,
+  "minVersion": "1.0.0.0",
+  "sha256": ""
+}
